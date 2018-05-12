@@ -24,6 +24,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13112#Speeches-from-the-Dock-Part-I--13-Speeches-delivered-after-conviction-by-Theobald-Wolfe-Tone-_
 gutenberg_issued: '2004-08-04'
 gutenberg_type: Text
 identifiers:
