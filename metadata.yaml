@@ -1,0 +1,52 @@
+_repo: Speeches-from-the-Dock-Part-I--13-Speeches-delivered-after-conviction-by-Theobald-Wolfe-Tone-__13112
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Sullivan, D. B. (Denis Baylor)
+    alias: Sullivan, Denis Baylor
+    deathdate: 1909
+    gutenberg_agent_id: '39105'
+    url: http://www.gutenberg.org/2009/agents/39105
+  - agent_name: Sullivan, A.M. (Alexander Martin)
+    alias: Sullivan, Alexander Martin
+    birthdate: 1830
+    deathdate: 1884
+    gutenberg_agent_id: '4671'
+    url: http://www.gutenberg.org/2009/agents/4671
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Martin_Sullivan_(Irish_politician)
+  - agent_name: Sullivan, T. D. (Timothy Daniel)
+    alias: Sullivan, Timothy Daniel
+    birthdate: 1827
+    deathdate: 1914
+    gutenberg_agent_id: '39886'
+    url: http://www.gutenberg.org/2009/agents/39886
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2004-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 20th century'
+- !lcc 'DA'
+- !lcsh 'Ireland -- Politics and government -- 19th century'
+- !lcsh 'Ireland -- Biography'
+tableOfContents: Theobald Wolfe Tone -- William Orr -- Henry and John Sheares -- Robert
+  Emmet -- Thomas Russell -- John Mitchel -- John Martin -- W.S. O'Brien -- Thomas
+  Francis Meagher -- Kevin Izod O'Doherty -- Terence Bellew M'Manus -- Thomas Clarke
+  Luby -- John O'Leary -- Jeremiah O'Donovan (Rossa) -- Bryan Dillon, John Lynch,
+  and Others -- Charles Joseph Kickham -- General Thomas F. Burke -- Captain John
+  M'Afferty -- Edward Duffy -- Stephen Joseph Meany -- Captain John M'Clure -- Edward
+  Kelly -- Captain William Mackay.
+title: "Speeches from the Dock, Part I\r\nOr, Protests of Irish Patriotism\r\nSpeeches\
+  \ delivered after conviction by Theobald Wolfe Tone, William Orr, the brothers Sheares,\
+  \ Robert Emmet, John Martin, William Smith O'Brien, Thomas Francis Meagher, Terence\
+  \ Bellew McManus, John Mitchel, Thomas C. Luby, John O'Leary, Charles J. Kickham,\
+  \ Colonel Thomas F. Burke, and Captain Mackay"
+url: http://www.gutenberg.org/ebooks/13112
